@@ -22,6 +22,7 @@ hashNow('yourSecreteWord');
 `
 hashNow(secret[, precision = 'day', utc = true])
 `
+
 Name | Type | Default | Description
 -|-|-|-
 secret | string |  | required, your secret key
