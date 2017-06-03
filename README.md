@@ -1,7 +1,7 @@
 # hashNow
 Simple library to generate an hash relative to current day.
 
-[![Build Status](https://travis-ci.org/fabioricali/TimeKey.svg?branch=master)](https://travis-ci.org/fabioricali/TimeKey) [![Coverage Status](https://coveralls.io/repos/github/fabioricali/TimeKey/badge.svg?branch=master)](https://coveralls.io/github/fabioricali/TimeKey?branch=master)
+[![Build Status](https://travis-ci.org/fabioricali/HashNow.svg?branch=master)](https://travis-ci.org/fabioricali/HashNow) [![Coverage Status](https://coveralls.io/repos/github/fabioricali/HashNow/badge.svg?branch=master)](https://coveralls.io/github/fabioricali/HashNow?branch=master)
 
 ## Installation
 
